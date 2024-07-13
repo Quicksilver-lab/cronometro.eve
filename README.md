@@ -1,3 +1,3 @@
-# CRONÔMETRO SIMPLES FEITO EM JAVASCRIPT
+# CRONÔMETRO EM JAVASCRIPT
 
-Meu primeiro projeto feito quando comecei a me interessar por programação e me apaixonei, e futuramente vou buscar melhorar ele!👾👑
+Meu primeiro projeto quando comecei a me interessar por programação, futuramente vou buscar melhorar ele!👾👑
