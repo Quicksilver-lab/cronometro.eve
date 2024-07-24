@@ -19,7 +19,11 @@ This is a simple yet functional stopwatch built with HTML, CSS, and JavaScript. 
 
 ## Preview
 
-![Stopwatch Screenshot](assets/stopwatch.png)
+<div align="center">
+  
+![Stopwatch Screenshot](stopwatch.png)
+
+</div>
 
 ## Future Plans
 
